@@ -1,0 +1,18 @@
+src
+  app
+    customer
+      customer.component.ts|.html|.css
+
+    customer-list
+      customer-list.component.ts|.html|.css
+
+    shared
+      customer.service.ts
+
+    app.module.ts
+
+  environments
+    environment.ts (saved firebase connection details)
+
+  index.html
+
